@@ -1,3 +1,11 @@
+# This is an attempt to use Firenet on Edge TPU (Google Coral)
+
+Everything here are work in progress and may not be entirely the same as the orginal repo.
+
+Should you arrived here looking for the original works of Dunnings and Breckon, please visit the official repo of [FireNet](https://github.com/tobybreckon/fire-detection-cnn/)
+
+## Original README past this line
+
 # Experimentally Defined Convolutional Neural Network Architecture Variants for Non-temporal Real-time Fire Detection
 
 Tested using Python 3.4.6, [TensorFlow 1.13.0](https://www.tensorflow.org/install/), [tflearn 0.3](http://tflearn.org/) and [OpenCV 3.3.1 / 4.0.x](http://www.opencv.org)
